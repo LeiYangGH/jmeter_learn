@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1510891042004,58,HTTP请求,200,OK,py9 1-1,text,true,,2335,114,1,1,57,0,39
+1510891042075,9,HTTP请求,200,OK,py9 1-1,text,true,,2335,114,1,1,9,0,1
+1510891042086,8,HTTP请求,200,OK,py9 1-1,text,true,,2335,114,1,1,8,0,0
